@@ -1,1 +1,1 @@
-import boto
+import _bootlocale
