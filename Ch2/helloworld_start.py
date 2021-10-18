@@ -8,5 +8,6 @@ def main():
     print("Nice to meet you,", name)
 
 
+# This calls the main function
 if __name__ == "__main__":
     main()
