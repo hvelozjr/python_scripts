@@ -34,6 +34,7 @@ print(x * y)
 
 #
 # Example file for variables
+# Just testing my script
 #
 
 # # Declare a variable and initialize it
